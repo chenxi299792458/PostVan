@@ -1,0 +1,22 @@
+{
+  "name": "postvan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenxi299792458/PostVan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenxi299792458/PostVan/issues"
+  },
+  "homepage": "https://github.com/chenxi299792458/PostVan#readme",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  }
+}
