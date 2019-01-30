@@ -5,7 +5,7 @@ function createWindow () {
   win = new BrowserWindow({ width: 800, height: 600 })
 
   // 然后加载应用的 index.html。
-  win.loadFile('dva-quickstart/dist/index.html')
+  win.loadFile('dist/index.html')
 }
 
 app.on('ready', createWindow)
